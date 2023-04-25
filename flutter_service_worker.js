@@ -3,11 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "6f0e9dd15df9c83ae50b440deaaa9145",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+  "assets/AssetManifest.json": "86396a671ce8e07d3dbf74defbe39968",
+"assets/FontManifest.json": "0574ccb4ea486d793dc695f8d3d2a7cf",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/images/airsquat.jpg": "6822f2cf2ba7f5509f2a0f50b2f8d4d0",
 "assets/images/deadlift.jpg": "1c7aea18f53fafd24b4d0968cb37a3da",
+"assets/images/decagon.png": "08a77804c347ff7a7edcabc3e0f48b8d",
 "assets/images/frontsquat.jpg": "0f464212d5c845c6c74367423bb72d03",
 "assets/images/medicineballclean.jpg": "71bba186fd6499d7bc4364b581767605",
 "assets/images/overheadsquat.jpg": "3be67a042f50a5432cedc21f6413e2d2",
@@ -24,8 +25,10 @@ const RESOURCES = {
 "assets/images/tabata6.png": "ea225349560e799dd3fd820c87946ebb",
 "assets/images/tabata7.png": "6d097e14aa3754960e1430ef36a5634a",
 "assets/images/tabata8.png": "2dba44932b69ece1e042be152a0dda77",
-"assets/NOTICES": "0727dbacd8580d6ed676b4bd654449f5",
+"assets/NOTICES": "e3dd3f61ababeb8de6ab9f91d4a91e47",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
+"assets/packages/flutter_material_symbols/lib/fonts/material_symbols_regular.ttf": "0ca3d9dc35a283a5ae7c43e79da8388f",
+"assets/packages/material_design_icons_flutter/lib/fonts/materialdesignicons-webfont.ttf": "e9f2f143310604845f8aa26c42ad5f55",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
 "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
 "canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
@@ -36,9 +39,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "a0f30b457a01fb6309023e94d06f3224",
-"/": "a0f30b457a01fb6309023e94d06f3224",
-"main.dart.js": "1020cfaa307a9f9a5163f963c8349b0c",
+"index.html": "ce4c1ed736f35f6e98671655096c27a0",
+"/": "ce4c1ed736f35f6e98671655096c27a0",
+"main.dart.js": "50e4f440ee2073abc4fe14eaf58aab70",
 "manifest.json": "db7e7156b067129e99ad7e7462e4ce9b",
 "version.json": "1c154cfcf52a3593e66de31a3fe3d7fd"
 };
